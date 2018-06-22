@@ -1,0 +1,17 @@
+
+{"type":"challenge","challenge":{"id":"s6F16aFS","status":"created","challenger":{"id":"bannerbschafer","name":"BannerBSchafer","title":null,"rating":1722,"online":true,"lag":2},"destUser":{"id":"banner_bot","name":"banner_bot","title":"BOT","rating":1500,"provisional":true,"online":true},"variant":{"key":"standard","name":"Standard","short":"Std"},"rated":false,"speed":"blitz","timeControl":{"type":"clock","limit":300,"increment":0,"show":"5+0"},"color":"random","perf":{"icon":")","name":"Blitz"}}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
